@@ -4,7 +4,12 @@ Name - Vaishnav J
 Roll number - EE20M544  
 Email - vaishnavjrm@gmail.com  
 
-C Code compilation & execution can be done in an IDE like Codeblocks/Microsoft Visual Studio, on a Windows machine. Otherwise, the executable (.exe) can be directly run on a Windows machine.
+Steps for C code compilation :
+1. Download main.c
+2. Open the file in an IDE - Codeblocks or Visual Studio. (Further steps are put for Codeblocks)
+3. Click on "Build" in the menu bar and select "Build and Run" from the options.
+
+The executable (.exe) can be downloaded and directly run on a Windows machine.
 
 Encryption
 ![image](https://user-images.githubusercontent.com/17180872/142863151-f4a82fc6-e133-40de-b22e-78f8a6109ed9.png)
